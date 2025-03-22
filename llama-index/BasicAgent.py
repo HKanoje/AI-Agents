@@ -12,7 +12,7 @@ agent = FunctionAgent(
     name="Agent",
     description="Useful for multiplying two numbers",
     tools=[multiply],
-    llm=Ollama(model="llama3.1:8b", request_timeout=360.0),
+    llm=Ollama(model="qwen2.5:7b", request_timeout=360.0),
     system_prompt="You are a helpful assistant that can multiply two numbers.",
 )
 
