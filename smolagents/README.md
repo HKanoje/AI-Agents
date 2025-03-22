@@ -66,8 +66,8 @@ multiAgentExample.py
 
 > [Agent searches and returns an answer from DuckDuckGo]
 
-![Output](..\asserts\sm1.png)
-![Output](..\asserts\sm2.png)
+![Output](../asserts/sm1.png)
+![Output](../asserts/sm2.png)
 
 ## 📊 RAG vs Agentic RAG (Notebook Comparison)
 
