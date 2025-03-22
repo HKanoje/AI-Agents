@@ -80,6 +80,13 @@ ollama serve
 - Each folder is standalone and self-documented
 
 ---
+## 🙏 Acknowledgments
+
+A big **thank you to Hugging Face** for their incredible **AI Agents course**, which served as the inspiration and learning foundation for this project.
+
+The concepts, workflows, and code explored here were directly influenced by the hands-on lessons and guidance provided throughout the course. Massive respect to the instructors and contributors for making advanced agent tooling approachable and practical.
+
+---
 
 > Check out the individual `README.md` in each folder for detailed documentation and usage examples.
 
